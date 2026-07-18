@@ -63,11 +63,10 @@ This project detects the following fraud patterns:
 ## 📁 Project Structure
 
 ```
-RedFlag-Fraud-Detection-SQL/
+SQL_Minor_project
 │
 ├── README.md
 ├── RedFlag_Prachi Raghuwanshi.sql.
-└── Screenshots/
     ├── Pattern1.png
     ├── Pattern8.png
     ├── Pattern11.png
