@@ -95,13 +95,6 @@ Through this project, I improved my understanding of:
 - GitHub
 
 ---
-
-## 📸 Sample Output
-
-Screenshots of some query outputs are available in the **Screenshots** folder.
-
----
-
 ## 👩‍💻 About Me
 
 Hi! I'm **Prachi Raghuwanshi**, an aspiring Data Analyst currently learning SQL, Python, Power BI, Excel, and Data Analytics through hands-on projects.
